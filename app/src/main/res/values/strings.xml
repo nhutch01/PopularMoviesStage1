@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Popular Movies Stage1</string>
+    <string name="sortBy">Sort By</string>
+    <string name="mostPopular">Most Popular</string>
+    <string name="topRated">Top Rated</string>
+    <string name="networkFailure">Network Connection Failure</string>
+    <string name="mainMenuTitle">Sort By</string>
+    <string name="moviePosition">movie_position</string>
+    <string name="preferenceSort">preference_sort</string>
+
+</resources>
