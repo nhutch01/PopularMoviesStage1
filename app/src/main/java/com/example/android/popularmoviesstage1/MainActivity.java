@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity implements AdapterClickListe
     }
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        if(item.getItemId() == R.id.itm_main_menu){
+        if(item.getItemId() == R.id.main_menu_item){
             startActivityForResult(new Intent(MainActivity.this, MenuActivity.class),SETTINGS_REQUEST_CODE);
         }
         return true;
