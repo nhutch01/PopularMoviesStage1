@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorTitle">#d50000</color>
+    <color name="bestRating">#E4D7</color>
+    <color name="aboveNormalRating">#AED908</color>
+    <color name="normalRating">#303F9F</color>
+    <color name="belowNormalRating">#FF4081</color>
+    <color name="lowestRating">#d50000</color>
 </resources>

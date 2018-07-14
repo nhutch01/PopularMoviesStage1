@@ -7,5 +7,7 @@
     <string name="mainMenuTitle">Sort By</string>
     <string name="moviePosition">movie_position</string>
     <string name="preferenceSort">preference_sort</string>
+    <string name="posterDescription">Movie Poster</string>
+
 
 </resources>
